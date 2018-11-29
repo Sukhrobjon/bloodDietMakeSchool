@@ -24,3 +24,4 @@ Routes:
 5. EDIT >>> UPDATE >>> "/blood/:bloodId/diet/:dietId/edit" >>> GET the form input
 5. UPDATE >>> "/blood/:bloodId/diet/:dietId/" >>> PUT/PATCH the form input
 6. DESTROY >>> "/blood/:bloodId/diet/:dietId/" >>> DELETE the user input
+6. GEt>>> blood/:type/diet
